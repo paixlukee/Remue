@@ -7,7 +7,7 @@ A 'New Tab' page for most browsers that changes through Rem images. <img src="ht
 * Fast and free
 * Supports multiple browsers (Chrome, Firefox, Opera)
 * Actively developed and opensource
-* Multiple language support
+* Rem is best girl, making this extension IRRESISTIBLE.
 
 ## Installation
 How to add Remue to your browser.
