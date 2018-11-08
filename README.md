@@ -5,7 +5,7 @@ A 'New Tab' page for most browsers that changes through Rem images. <img src="ht
 
 ## Features
 * Fast and free
-* Supports multiple browsers
+* Supports multiple browsers (Chrome, Firefox, Opera)
 * Actively developed and opensource
 * Multiple language support
 
