@@ -41,11 +41,9 @@ How to add Remue to your browser.
 
 
 ## Credits
-[ohlookitsderpy](https://github.com/ohlookitsderpy/Mue) - Owner of Original-Original Code
+[ohlookitsderpy](https://github.com/ohlookitsderpy/Mue) - Owner of Forked Code
 
-[Turbomarshmello](https://github.com/TurboMarshmello) - Portions of original code, name idea.
-
-[Pexels](https://pexels.com) - Stock photos used
+[Turbomarshmello](https://github.com/TurboMarshmello) - Portions of original code
 
 [Opera Forum](https://forums.opera.com/topic/25046/how-to-disable-completely-the-speed-dial/14) - Portions of code to add Opera support
 
