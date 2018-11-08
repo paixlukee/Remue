@@ -11,15 +11,6 @@ A 'New Tab' page for most browsers that changes through Rem images. <img src="ht
 
 ## Installation
 How to add Remue to your browser.
-### Chrome
-<a href="https://chrome.google.com/webstore/detail/mue/bngmbednanpcfochchhgbkookpiaiaid"><img src='https://vgy.me/h6SLKn.png'><br> ...
-### Opera
-Development: Read the [Development](#development) section
-### Firefox
-<a href="https://addons.mozilla.org/en-US/firefox/addon/mue/"><img src='https://vgy.me/REe6qz.png' target='_blank'></a><br>
-...
-
-### Development Mode
 
 #### Chrome
 1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
