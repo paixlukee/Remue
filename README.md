@@ -1,8 +1,7 @@
-# Mue
-<a href='https://ko-fi.com/ohlookitsderpy' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://patreon.com/ohlookitsderpy' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://c5.patreon.com/external/logo/become_a_patron_button.png' border='0' alt='Become a patron on patreon.com' /></a>
+# Remue
+**This is a fork from ohlookitsderpy's** [Mue](https://github.com/ohlookitsderpy/Mue)
 
-Fast, open and free-to-use new tab page for most modern browsers
+A 'New Tab' page for most browsers that changes through Rem images.
 
 ## Features
 * Fast and free
@@ -12,19 +11,12 @@ Fast, open and free-to-use new tab page for most modern browsers
 
 ## Installation
 ### Chrome
-<a href="https://chrome.google.com/webstore/detail/mue/bngmbednanpcfochchhgbkookpiaiaid"><img src='https://vgy.me/h6SLKn.png' target='_blank'></a> 
-
-Link: https://chrome.google.com/webstore/detail/mue/bngmbednanpcfochchhgbkookpiaiaid
-
-Development: Read the [Development](#development) section
+<a href="https://chrome.google.com/webstore/detail/mue/bngmbednanpcfochchhgbkookpiaiaid"><img src='https://vgy.me/h6SLKn.png' ...
 ### Opera
 Development: Read the [Development](#development) section
 ### Firefox
 <a href="https://addons.mozilla.org/en-US/firefox/addon/mue/"><img src='https://vgy.me/REe6qz.png' target='_blank'></a> 
-
-Link: https://addons.mozilla.org/en-US/firefox/addon/mue/
-
-Development: Read the [Development](#development) section
+...
 
 ### Development
 
@@ -54,24 +46,12 @@ Development: Read the [Development](#development) section
 ## Screenshot
 *Will be updated if needed*
 
-<img src="https://vgy.me/K8T5EP.png">
+*not yet!*
 
-## Translations
-English - Quotes and Messages
-
-Italian - Quotes and Messages 
-
-Spanish - Quotes and Messages
-
-Portuguese - Quotes (Some)
-
-Dutch - Messages
-
-French - Messages
-
-*Feel free to pull request with other translations!*
 
 ## Credits
+[ohlookitsderpy](https://github.com/ohlookitsderpy/Mue) - Owner of Original-Original Code
+
 [Turbomarshmello](https://github.com/TurboMarshmello) - Portions of original code, name idea.
 
 [Pexels](https://pexels.com) - Stock photos used
