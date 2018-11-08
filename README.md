@@ -23,7 +23,7 @@ How to add Remue to your browser.
 1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
 2. Rename ``manifest-opera.json`` to ``manifest.json``
 3. Visit ``about://extensions`` in Opera
-4. Click **Load unpacked extension...** (Make sure you are in **Developer Mode**, click the switch at the top)
+4. Click **Load unpacked extension...** (Make sure you are in **Developer Mode**. If you aren't, click the switch at the top to turn it on.)
 5. Go to the directory and click `OK`.
 6. Enjoy :^)
 
