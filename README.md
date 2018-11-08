@@ -49,4 +49,5 @@ How to add Remue to your browser.
 
 [Animate.css](https://daneden.github.io/animate.css/) - Portions of code used for animations
 
-and all the contributors <3
+
+![mw_img](https://image.ibb.co/nHqaDV/Logo-Makr-8-NJWCT.png)
