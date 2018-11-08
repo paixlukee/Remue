@@ -3,7 +3,7 @@
 
 :root {
 
-	--shadow-color: #111111CC;
+	--shadow-color: #8cf7f5;
 
 }
 
@@ -21,9 +21,9 @@ body {
 
 	background-size: cover;
 	background-position: 50%;
-	background-color: black; /* Prevent white flash on page load */
+	background-color: white;
 
-	font-family: 'Roboto';
+	font-family: 'Verdana';
 	color: white;
 
 	overflow: hidden;
@@ -34,31 +34,31 @@ body {
 
 /*  BACKGROUND CLASSES  */
 
-.mountain {  background-image: url('../img/1.jpeg'); }
-.sunrise {   background-image: url('../img/2.jpeg'); }
-.butterfly { background-image: url('../img/3.jpeg'); }
-.leaves {    background-image: url('../img/4.jpeg'); }
-.river {     background-image: url('../img/5.jpeg'); }
-.sea {       background-image: url('../img/6.jpeg'); }
-.space {     background-image: url('../img/7.jpeg'); }
-.ice {       background-image: url('../img/8.jpeg'); }
-.waterfall { background-image: url('../img/9.jpeg'); }
-.river {     background-image: url('../img/10.jpeg'); }
-.sunset {    background-image: url('../img/11.jpeg'); }
-.desert {    background-image: url('../img/12.jpeg'); }
-.canyon {    background-image: url('../img/13.jpeg'); }
-.rose {      background-image: url('../img/14.jpeg'); }
-.forest {    background-image: url('../img/15.jpeg'); }
-.cherry {    background-image: url('../img/16.jpeg'); }
-.clouds {    background-image: url('../img/17.jpeg'); }
-.winter {    background-image: url('../img/18.jpeg'); }
-.autumn {    background-image: url('../img/19.jpeg'); }
-.flowers {   background-image: url('../img/20.jpeg'); }
-.sunrise {   background-image: url('../img/21.jpeg'); }
-.rocks {     background-image: url('../img/22.jpeg'); }
-.trees {     background-image: url('../img/23.jpeg'); }
-.mountains { background-image: url('../img/24.jpeg'); }
-.beach {     background-image: url('../img/25.jpeg'); }
+.one {  background-image: url('https://images5.alphacoders.com/700/thumb-1920-700733.png'); }
+.two {   background-image: url('https://images6.alphacoders.com/710/thumb-1920-710132.png'); }
+.three { background-image: url('https://cdn.ibispaint.com/movie/387/961/387961439/image387961439.png'); }
+.four {    background-image: url('https://images4.alphacoders.com/706/thumb-1920-706365.png'); }
+.five {     background-image: url('https://images7.alphacoders.com/719/thumb-1920-719179.png'); }
+.six {       background-image: url('https://images.wallpaperscraft.com/image/re_zero_rem_anime_girl_art_112246_2048x1152.jpg'); }
+.seven {     background-image: url('http://i557com-1251420446.picgz.myqcloud.com/wp-content/uploads/2018/07/1531143581.jpg'); }
+.eight {       background-image: url('https://images.wallpaperscraft.com/image/rem_re_zero_girl_anime_112238_1366x768.jpg'); }
+.nine { background-image: url('https://images3.alphacoders.com/735/735545.png'); }
+.ten {     background-image: url('https://img4.goodfon.com/wallpaper/big/e/47/re-zero-kara-hajimeru-isekai-seikatsu-art-fon-rem.jpg'); }
+.eleven {    background-image: url('https://i2.wp.com/wallur.com/wp-content/uploads/2016/12/re-zero-background-4.jpg?fit=1920%2C1080'); }
+.twelve {    background-image: url('http://www.techpresentations.org/myphoto/f/10/103712_rem-hd-wallpaper.jpg'); }
+.thirteen {    background-image: url('https://images7.alphacoders.com/729/729168.jpg'); }
+.fourteen {      background-image: url('https://wallup.net/wp-content/uploads/2017/10/25/484538-blue_hair-Rem-Re_Zero_Kara_Hajimeru_Isekai_Seikatsu-anime_girls-anime-748x421.jpg'); }
+.fifteen {    background-image: url('https://avatars.mds.yandex.net/get-pdb/985790/88223b28-7a0f-4fc9-b736-8d6d3b4d9fde/s1200'); }
+.sixteen {    background-image: url('https://orig00.deviantart.net/60ad/f/2016/198/8/b/8ba1ebcacb0223c2b6111a48d480d989-daab9wz.png'); }
+.seventeen {    background-image: url('https://i.pinimg.com/originals/99/e4/95/99e495603082281feb52d21c51a3bb84.jpg'); }
+.eighteen {    background-image: url('https://pre00.deviantart.net/baa2/th/pre/f/2016/157/b/e/ram_and_rem___re_zero_by_arseysenpai-da57o56.png'); }
+.nineteen {    background-image: url('http://www.wallpapermaiden.com/image/2016/08/20/re-zero-rem-traditional-building-maid-clothes-anime-4542.png'); }
+.twenty {   background-image: url('https://wallpapertag.com/wallpaper/full/f/6/b/225083-rem-re-zero-wallpaper-1920x1080-1080p.jpg'); }
+.twentyone {   background-image: url('https://i.pinimg.com/originals/c4/49/23/c44923f7dada9363a9bf8aaaad08bef6.jpg'); }
+.twentytwo {     background-image: url('https://i1.wp.com/wallur.com/wp-content/uploads/2016/12/re-zero-background-18.png?fit=1920%2C1080'); }
+.twentythree {     background-image: url('https://images7.alphacoders.com/702/thumb-1920-702274.png'); }
+.twentyfour { background-image: url('https://i.ytimg.com/vi/59IrDdwGm5M/maxresdefault.jpg'); }
+.twentyfive {     background-image: url('http://backgroundcheckall.com/wp-content/uploads/2017/12/rem-background-3-300x200.png'); }
 
 
 
@@ -116,22 +116,12 @@ time {
 	
 }
 
-.quote blockquote::before { content: '“'; margin-right: 0.25ch; }
+.quote blockquote::before {content: '“'; margin-right: 0.25ch; }
 .quote blockquote::after { content: '”';  margin-left: 0.25ch; }
 
 /* quote author */
 
 .quote cite { font-size: 83.33%; }
-
-/* Font */
-
-@font-face {
-	font-family: 'Roboto';
-	font-style: normal;
-	font-weight: 400;
-	src: local('Roboto'), local('Roboto-Regular'),
-		 url('../font/roboto-v18-latin-regular.woff2') format('woff2'); 
-  }
 
 /* ANIMATIONS */
 
