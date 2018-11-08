@@ -1,5 +1,4 @@
 ![remue_img](https://image.ibb.co/cs9RLA/Logo-Makr-1-Snn-Do.png)<br>
-<img src="https://image.ibb.co/jbHmnq/m.jpg" height="65"><br>
 *This is a fork from ohlookitsderpy's [Mue](https://github.com/ohlookitsderpy/Mue)*
 
 A 'New Tab' page for most browsers that changes through Rem images. <img src="https://discordemoji.com/assets/emoji/RemKiss.png" height="25">
@@ -50,3 +49,4 @@ How to add Remue to your browser.
 
 [Animate.css](https://daneden.github.io/animate.css/) - Portions of code used for animations
 
+<img src="https://image.ibb.co/jbHmnq/m.jpg" height="65"><br>
