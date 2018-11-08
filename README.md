@@ -23,9 +23,10 @@ How to add Remue to your browser.
 1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
 2. Rename ``manifest-opera.json`` to ``manifest.json``
 3. Visit ``about://extensions`` in Opera
-4. Click **Load unpacked extension...** (Make sure you are in **Developer Mode**)
-5. Go to the directory and click ok
-6. Enjoy your new tab!
+4. Click **Load unpacked extension...** (Make sure you are in **Developer Mode**, click the switch at the top)
+5. Go to the directory and click `OK`.
+6. Enjoy :^)
+
 #### Firefox
 *NOTE: I'm currently trying to find a better method to do this, but this works for now. Also in testing and may not work properly!*
 1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
@@ -33,7 +34,7 @@ How to add Remue to your browser.
 3. Visit ``about:debugging#addons`` in Firefox
 4. Click **Load Temporary Add-on...**
 5. Go to the directory and click on the manifest.json
-6. Enjoy your new tab!
+6. Enjoy :^)
 
 ## Screenshot
 *not yet!*
