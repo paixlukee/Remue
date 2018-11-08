@@ -1,7 +1,5 @@
-![remue_img](https://image.ibb.co/cs9RLA/Logo-Makr-1-Snn-Do.png)<br><br>
-
-
-*This is a fork from ohlookitsderpy's** [Mue](https://github.com/ohlookitsderpy/Mue)*
+![remue_img](https://image.ibb.co/cs9RLA/Logo-Makr-1-Snn-Do.png)<br>
+*This is a fork from ohlookitsderpy's** [Mue](https://github.com/ohlookitsderpy/Mue)
 
 A 'New Tab' page for most browsers that changes through Rem images.
 
