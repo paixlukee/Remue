@@ -49,4 +49,4 @@ How to add Remue to your browser.
 
 [Animate.css](https://daneden.github.io/animate.css/) - Portions of code used for animations
 
-<img src="https://image.ibb.co/jbHmnq/m.jpg" height="65"><br>
+<img src="https://image.ibb.co/m361LA/m.jpg" height="65"><br>
