@@ -18,17 +18,17 @@ Development: Read the [Development](#development) section
 <a href="https://addons.mozilla.org/en-US/firefox/addon/mue/"><img src='https://vgy.me/REe6qz.png' target='_blank'></a> 
 ...
 
-### Development
+### Development Mode
 
 #### Chrome
-1. ``git clone https://github.com/ohlookitsderpy/Mue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
+1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
 2. Rename ``manifest-chrome.json`` to ``manifest.json``
 3. Visit ``chrome://extensions`` in Chrome
 4. Click **Load unpacked** (Make sure **Developer Mode** is on)
 5. Go to the directory and click ok
 6. Enjoy your new tab!
 #### Opera
-1. ``git clone https://github.com/ohlookitsderpy/Mue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
+1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
 2. Rename ``manifest-opera.json`` to ``manifest.json``
 3. Visit ``about://extensions`` in Opera
 4. Click **Load unpacked extension...** (Make sure you are in **Developer Mode**)
@@ -36,7 +36,7 @@ Development: Read the [Development](#development) section
 6. Enjoy your new tab!
 #### Firefox
 *Note: I'm currently trying to find a better method to do this, but this works for now. Also in testing and may not work properly!*
-1. ``git clone https://github.com/ohlookitsderpy/Mue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
+1. ``git clone https://github.com/paixlukee/Remue`` (If you don't have Git just go to **Clone or download** and click **Download ZIP**)
 2. Rename ``manifest-firefox.json`` to ``manifest.json``
 3. Visit ``about:debugging#addons`` in Firefox
 4. Click **Load Temporary Add-on...**
